@@ -1,0 +1,221 @@
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\appsettings.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Brive.exe
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Brive.deps.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Brive.runtimeconfig.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Brive.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Brive.pdb
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.csproj.AssemblyReference.cache
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfoInputs.cache
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfo.cs
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CoreCompileInputs.cache
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.Brive.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.build.Brive.props
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Brive.props
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Brive.props
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\scopedcss\bundle\Brive.styles.css
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CopyComplete
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\refint\Brive.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.pdb
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\Brive.genruntimeconfig.cache
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\obj\Debug\net6.0\ref\Brive.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GRUPO LAHE\Documents\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\appsettings.Development.json
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\appsettings.json
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.exe
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.deps.json
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.runtimeconfig.json
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.pdb
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Azure.Core.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Azure.Identity.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Memory.Data.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.csproj.AssemblyReference.cache
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfoInputs.cache
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfo.cs
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CoreCompileInputs.cache
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cs
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cache
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.Brive.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.build.Brive.props
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Brive.props
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Brive.props
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets.pack.json
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets.build.json
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\staticwebassets.development.json
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\scopedcss\bundle\Brive.styles.css
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CopyComplete
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.dll
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\refint\Brive.dll
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.pdb
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\Brive.genruntimeconfig.cache
+A:\Dell\Downloads\Brive\Brive\obj\Debug\net6.0\ref\Brive.dll
+A:\Dell\Downloads\Brive\Brive\bin\Debug\net6.0\Brive.staticwebassets.runtime.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\appsettings.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.staticwebassets.runtime.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.exe
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.deps.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.runtimeconfig.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Brive.pdb
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.csproj.AssemblyReference.cache
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfoInputs.cache
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.AssemblyInfo.cs
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CoreCompileInputs.cache
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.Brive.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.build.Brive.props
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Brive.props
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Brive.props
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\scopedcss\bundle\Brive.styles.css
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.csproj.CopyComplete
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\refint\Brive.dll
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.pdb
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\Brive.genruntimeconfig.cache
+C:\Users\GRUPO LAHE\Pictures\Brive\Brive\obj\Debug\net6.0\ref\Brive.dll

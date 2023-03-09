@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Brive - Venta</title>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+    <div class="form-body">
+        <div class="row">
+            <div class="form-holder">
+                <div class="form-content">
+                    <div class="form-items">
+                        <h3>Venta de Productos</h3>
+                        <p>A continuación selecciona tu sucursal</p>
+                        <form class="requires-validation" novalidate>
+                            <div class="col-md-12" style="margin-bottom:15px;">
+                                <select class="form-select mt-3" id="list_sucursales" required>
+                                    <option selected disabled value="">Selecciona Sucursal</option>
+                                </select>
+                            </div>
+                            <div class="col-md-12" style="margin-bottom:10px;">
+                                <input class="form-control" id="codigo_barras" type="number" min="0" placeholder="Código de barras" required />
+                            </div>
+                            <div class="form-button mt-3" style="margin-bottom:20px;">
+                                <input type="button" class="btn btn-primary" value="Agregar" onclick="Agregar_carrito()"/>
+                            </div>
+                            <p>Listado de compra.</p>
+                            <div class="col-md-12">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <td>Producto</td>
+                                            <td>Código de barras</td>
+                                            <td>Cantidad</td>
+                                            <td>Precio Unitario</td>
+                                            <td>Sucursal</td>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="listado_productos">
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="form-button mt-3">
+                                <input type="button" class="btn btn-primary" onclick="finalizar_compra()" value="Comprar"/>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./venta.js"></script>
+</body>
+</html>

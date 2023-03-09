@@ -1,0 +1,65 @@
+{
+  "ContentRoots": [
+    "/src/Brive/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "listado.html": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "listado.html"
+        },
+        "Patterns": null
+      },
+      "listado.js": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "listado.js"
+        },
+        "Patterns": null
+      },
+      "script.js": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "script.js"
+        },
+        "Patterns": null
+      },
+      "style.css": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "style.css"
+        },
+        "Patterns": null
+      },
+      "venta.html": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "venta.html"
+        },
+        "Patterns": null
+      },
+      "venta.js": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "venta.js"
+        },
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}
